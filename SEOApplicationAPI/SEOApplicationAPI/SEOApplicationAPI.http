@@ -1,0 +1,6 @@
+@SEOApplicationAPI_HostAddress = http://localhost:5196
+
+GET {{SEOApplicationAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
